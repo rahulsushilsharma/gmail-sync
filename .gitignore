@@ -3,3 +3,5 @@
 *.lock
 node_modules
 __pycache__
+emails/
+emails.parquet
